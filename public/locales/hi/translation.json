@@ -1,0 +1,7 @@
+{
+    "greeting":"hINDI, Welcome!",
+    "description":{
+        "line1":"ये <1>{{name}}</1> हैं"
+     
+    }
+}
